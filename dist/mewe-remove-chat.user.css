@@ -1,11 +1,11 @@
 /* ==UserStyle==
 @name         MeWe - Remove Chat
 @namespace    https://kevin-guertin.github.io
-@version      0.0.2
+@version      0.0.3
 @description  A Userstyle for MeWe.com to hide the Chats feature from the navigation bar, chat window, and left sidebar.
 @author       kevin-guertin (https://kevin-guertin.github.io)
 @homepageURL  https://github.com/kevin-guertin/mewe-remove-chat
-@updateURL    https://raw.githubusercontent.com/kevin-guertin/mewe-remove-chat/main/mewe-remove-chat.user.css
+@updateURL    https://raw.githubusercontent.com/kevin-guertin/mewe-remove-chat/main/dist/mewe-remove-chat.user.css
 @license      MIT
 @preprocessor default
 ==/UserStyle== */

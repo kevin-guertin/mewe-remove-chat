@@ -1,4 +1,5 @@
 # MeWe - Remove Chat
+
 _A Userstyle for MeWe.com to hide the Chats feature from the navigation bar, chat window, and left sidebar._
 
 ## [📦 UserCSS file ![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/kevin-guertin/mewe-remove-chat/main/dist/mewe-remove-chat.user.css)

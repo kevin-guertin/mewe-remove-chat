@@ -1,10 +1,11 @@
 /* ==UserStyle==
 @name         MeWe - Remove Chat
 @namespace    https://kevin-guertin.github.io
-@version      0.0.4
+@version      0.0.5
 @description  A Userstyle for MeWe.com to hide the Chats feature. It removes the chat window completely and removes it from the navigation bar, left sidebar, and right sidebar on profiles and groups.
 @author       kevin-guertin (https://kevin-guertin.github.io)
 @homepageURL  https://github.com/kevin-guertin/mewe-remove-chat
+@supportURL   https://github.com/kevin-guertin/mewe-remove-chat/issues
 @updateURL    https://raw.githubusercontent.com/kevin-guertin/mewe-remove-chat/main/dist/mewe-remove-chat.user.css
 @license      MIT
 @preprocessor default

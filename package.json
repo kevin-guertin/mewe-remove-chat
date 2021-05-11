@@ -1,6 +1,6 @@
 {
     "name": "mewe-remove-chat",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "A Userstyle for MeWe.com to hide the Chats feature from the navigation bar, chat window, and left sidebar.",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
